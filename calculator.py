@@ -5,4 +5,4 @@ def add(a, b):
 # TODO
 
 def subtract(a, b):
-    return a - b
+    return a - b  # fixed
